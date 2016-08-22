@@ -1,4 +1,5 @@
 c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
+<<<<<<< HEAD
 C:\Users\nmandge\mandge\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
 C:\Users\nmandge\mandge\CalculatorApplication\obj\Debug\CalculatorApplication.csprojResolveAssemblyReference.cache
 C:\Users\nmandge\mandge\CalculatorApplication\obj\Debug\CalculatorApplication.Form1.resources
@@ -8,3 +9,13 @@ C:\Users\nmandge\mandge\CalculatorApplication\bin\Debug\CalculatorApplication.ex
 C:\Users\nmandge\mandge\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
 C:\Users\nmandge\mandge\CalculatorApplication\obj\Debug\CalculatorApplication.exe
 C:\Users\nmandge\mandge\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
+=======
+c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe
+c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
+c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csprojResolveAssemblyReference.cache
+c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.Form1.resources
+c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.Properties.Resources.resources
+c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.GenerateResource.Cache
+c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.exe
+c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
+>>>>>>> 84521d53bf3b5068ac9382fbaa3dc59697368f6e
