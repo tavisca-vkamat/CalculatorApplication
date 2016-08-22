@@ -88,11 +88,11 @@ namespace CalculatorApplication
             textBox1.Text += "2";
         }
 
-<<<<<<< HEAD
+
         private void button14_Click(object sender, EventArgs e)
         {
 
-=======
+        }
         private void button3_Click(object sender, EventArgs e)
         {
             textBox1.Text += "3";
@@ -146,7 +146,7 @@ namespace CalculatorApplication
         private void button14_Click(object sender, EventArgs e)
         {
             textBox1.Text += "/";
->>>>>>> ed668948e7981e130a3314af55d076396dd82ba5
+
         }
     }
 }
