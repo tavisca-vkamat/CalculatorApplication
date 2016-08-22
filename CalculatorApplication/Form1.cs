@@ -76,11 +76,7 @@ namespace CalculatorApplication
         }
 
 
-        private void button11_Click(object sender, EventArgs e)
-        {
-
-        }
-       
+         
 
 
 
@@ -108,8 +104,7 @@ namespace CalculatorApplication
         {
             textBox1.Text += "7";
         }
-
-        private void button8_Click(object sender, EventArgs e)
+                private void button8_Click(object sender, EventArgs e)
         {
             textBox1.Text += "8";
         }
