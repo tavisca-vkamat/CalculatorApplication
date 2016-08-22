@@ -1,1 +1,10 @@
 c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
+C:\Users\nmandge\mandge\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
+C:\Users\nmandge\mandge\CalculatorApplication\obj\Debug\CalculatorApplication.csprojResolveAssemblyReference.cache
+C:\Users\nmandge\mandge\CalculatorApplication\obj\Debug\CalculatorApplication.Form1.resources
+C:\Users\nmandge\mandge\CalculatorApplication\obj\Debug\CalculatorApplication.Properties.Resources.resources
+C:\Users\nmandge\mandge\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.GenerateResource.Cache
+C:\Users\nmandge\mandge\CalculatorApplication\bin\Debug\CalculatorApplication.exe
+C:\Users\nmandge\mandge\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
+C:\Users\nmandge\mandge\CalculatorApplication\obj\Debug\CalculatorApplication.exe
+C:\Users\nmandge\mandge\CalculatorApplication\obj\Debug\CalculatorApplication.pdb

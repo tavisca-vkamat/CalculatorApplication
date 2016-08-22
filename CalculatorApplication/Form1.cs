@@ -17,6 +17,16 @@ namespace CalculatorApplication
             InitializeComponent();
         }
 
+         public double div(int a,int b)
+    {
+        double c = 0;
+        c = a / b;
+        
+        return c;
+
+    }
+
+
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
@@ -25,6 +35,11 @@ namespace CalculatorApplication
         private void button15_Click(object sender, EventArgs e)
         {
             /*hi this is vivek*/
+        }
+
+        private void button14_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
