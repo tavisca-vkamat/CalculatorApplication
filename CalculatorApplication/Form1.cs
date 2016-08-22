@@ -26,5 +26,17 @@ namespace CalculatorApplication
         {
             /*hi this is vivek*/
         }
+
+        private void button11_Click(object sender, EventArgs e)
+        {
+
+        }
+        public string add(int a,int b)
+        {
+
+            return (a + b) + "";
+        }
+
+
     }
 }
