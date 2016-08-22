@@ -30,18 +30,22 @@ namespace CalculatorApplication
             if (textOfInput.Contains("+"))
             {
                 numArray = textOfInput.Split('+');
+                //textBox2.Text = add(numArray[0],numArray[1]);
             }
             if (textOfInput.Contains("-"))
             {
                 numArray = textOfInput.Split('-');
+                //textBox2.Text = sub(numArray[0],numArray[1]);
             }
             if (textOfInput.Contains("*"))
             {
                 numArray = textOfInput.Split('*');
+                //textBox2.Text = mul(numArray[0],numArray[1]);
             }
             if (textOfInput.Contains("/"))
             {
                 numArray = textOfInput.Split('/');
+                //textBox2.Text = div(numArray[0],numArray[1]);
             }
         }
 
