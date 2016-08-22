@@ -21,5 +21,10 @@ namespace CalculatorApplication
         {
 
         }
+
+        private void button15_Click(object sender, EventArgs e)
+        {
+            /*hi this is vivek*/
+        }
     }
 }
