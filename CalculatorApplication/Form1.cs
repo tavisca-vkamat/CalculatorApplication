@@ -16,7 +16,12 @@ namespace CalculatorApplication
         {
             InitializeComponent();
         }
-       
+        public string mul(int a, int b)
+        {
+            return (a * b) + "";
+        }
+
+
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
@@ -30,18 +35,22 @@ namespace CalculatorApplication
             if (textOfInput.Contains("+"))
             {
                 numArray = textOfInput.Split('+');
+                //textBox2.Text = add(numArray[0],numArray[1]);
             }
             if (textOfInput.Contains("-"))
             {
                 numArray = textOfInput.Split('-');
+                //textBox2.Text = sub(numArray[0],numArray[1]);
             }
             if (textOfInput.Contains("*"))
             {
                 numArray = textOfInput.Split('*');
+                //textBox2.Text = mul(numArray[0],numArray[1]);
             }
             if (textOfInput.Contains("/"))
             {
                 numArray = textOfInput.Split('/');
+                //textBox2.Text = div(numArray[0],numArray[1]);
             }
         }
 
@@ -65,15 +74,60 @@ namespace CalculatorApplication
             textBox1.Text += "2";
         }
 
-        private void button13_Click(object sender, EventArgs e)
+        private void button3_Click(object sender, EventArgs e)
         {
-
+            textBox1.Text += "3";
         }
 
-
-        public string mul(int a, int b)
+        private void button4_Click(object sender, EventArgs e)
         {
-            return (a * b) + "";
+            textBox1.Text += "4";
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            textBox1.Text += "5";
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            textBox1.Text += "6";
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            textBox1.Text += "7";
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            textBox1.Text += "8";
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            textBox1.Text += "9";
+        }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            textBox1.Text += "0";
+        }
+
+        private void button12_Click(object sender, EventArgs e)
+        {
+            textBox1.Text += "-";
+        }
+
+        private void button13_Click(object sender, EventArgs e)
+        {
+            textBox1.Text += "*";
+        }
+
+        private void button14_Click(object sender, EventArgs e)
+        {
+            textBox1.Text += "/";
+
         }
     }
 }

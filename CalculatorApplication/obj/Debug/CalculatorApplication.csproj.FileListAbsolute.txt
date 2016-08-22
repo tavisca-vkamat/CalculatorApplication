@@ -11,3 +11,5 @@ c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorApplication\Calc
 c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.exe
 c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
 >>>>>>> 84521d53bf3b5068ac9382fbaa3dc59697368f6e
+D:\smurkar\CalculatorApplication\obj\Debug\CalculatorApplication.exe
+D:\smurkar\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
