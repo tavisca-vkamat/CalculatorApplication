@@ -2,6 +2,8 @@ c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorApplication\Calc
 <<<<<<< HEAD
 D:\MayurCalcGUI\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
 =======
+D:\smurkar\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
+>>>>>>> 8494b4a91c218c2c2aec1b0924d92f0ad4430518
 c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe
 c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
 c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csprojResolveAssemblyReference.cache
@@ -19,3 +21,5 @@ D:\MayurCalcGUI\CalculatorApplication\obj\Debug\CalculatorApplication.Properties
 D:\MayurCalcGUI\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.GenerateResource.Cache
 D:\MayurCalcGUI\CalculatorApplication\obj\Debug\CalculatorApplication.exe
 D:\MayurCalcGUI\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
+D:\smurkar\CalculatorApplication\obj\Debug\CalculatorApplication.exe
+D:\smurkar\CalculatorApplication\obj\Debug\CalculatorApplication.pdb

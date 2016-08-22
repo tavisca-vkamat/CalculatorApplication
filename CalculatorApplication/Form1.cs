@@ -16,10 +16,16 @@ namespace CalculatorApplication
         {
             InitializeComponent();
         }
+
         public string add(int a, int b)
         {
 
             return (a + b) + "";
+        }
+        public string mul(int a, int b)
+        {
+            return (a * b) + "";
+
         }
 
 
@@ -132,6 +138,7 @@ namespace CalculatorApplication
         private void button14_Click(object sender, EventArgs e)
         {
             textBox1.Text += "/";
+
         }
     }
 }
