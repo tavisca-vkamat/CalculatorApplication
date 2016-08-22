@@ -11,7 +11,7 @@ C:\Users\nmandge\mandge\CalculatorApplication\obj\Debug\CalculatorApplication.ex
 C:\Users\nmandge\mandge\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
 =======
 D:\smurkar\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
->>>>>>> 8494b4a91c218c2c2aec1b0924d92f0ad4430518
+
 c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe
 c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
 c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csprojResolveAssemblyReference.cache
@@ -20,6 +20,6 @@ c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorApplication\Calc
 c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.GenerateResource.Cache
 c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.exe
 c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
->>>>>>> 84521d53bf3b5068ac9382fbaa3dc59697368f6e
+
 D:\smurkar\CalculatorApplication\obj\Debug\CalculatorApplication.exe
 D:\smurkar\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
