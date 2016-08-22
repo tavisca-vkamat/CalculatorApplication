@@ -17,6 +17,25 @@ namespace CalculatorApplication
             InitializeComponent();
         }
 
+         public string div(int a,int b)
+    {
+        string s = "";
+        double c = 0;
+        c = a / b;
+        if (b == 0)
+        {
+            s = "Invalid";
+
+
+            return s;
+        }
+        else
+            s = c.ToString();
+        return s;
+
+    }
+
+
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
@@ -63,6 +82,11 @@ namespace CalculatorApplication
         private void button2_Click(object sender, EventArgs e)
         {
             textBox1.Text += "2";
+        }
+
+        private void button14_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
