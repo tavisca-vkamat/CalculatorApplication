@@ -89,10 +89,7 @@ namespace CalculatorApplication
         }
 
 
-        private void button14_Click(object sender, EventArgs e)
-        {
-
-        }
+        
         private void button3_Click(object sender, EventArgs e)
         {
             textBox1.Text += "3";
