@@ -1,1 +1,2 @@
 c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
+D:\smurkar\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config

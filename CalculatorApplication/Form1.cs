@@ -16,7 +16,7 @@ namespace CalculatorApplication
         {
             InitializeComponent();
         }
-
+       
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
@@ -25,6 +25,17 @@ namespace CalculatorApplication
         private void button15_Click(object sender, EventArgs e)
         {
             /*hi this is vivek*/
+        }
+
+        private void button13_Click(object sender, EventArgs e)
+        {
+
+        }
+
+
+        public string mul(int a, int b)
+        {
+            return (a * b) + "";
         }
     }
 }
