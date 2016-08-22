@@ -24,7 +24,45 @@ namespace CalculatorApplication
 
         private void button15_Click(object sender, EventArgs e)
         {
-            /*hi this is vivek*/
+           /* get user input and parse it to integer*/
+            String textOfInput = textBox1.Text;
+            String[] numArray= null;
+            if (textOfInput.Contains("+"))
+            {
+                numArray = textOfInput.Split('+');
+            }
+            if (textOfInput.Contains("-"))
+            {
+                numArray = textOfInput.Split('-');
+            }
+            if (textOfInput.Contains("*"))
+            {
+                numArray = textOfInput.Split('*');
+            }
+            if (textOfInput.Contains("/"))
+            {
+                numArray = textOfInput.Split('/');
+            }
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            textBox1.Text += "1";
+        }
+
+        private void button11_Click(object sender, EventArgs e)
+        {
+            textBox1.Text += "+";
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            textBox1.Text += "2";
         }
 
         private void button11_Click(object sender, EventArgs e)
