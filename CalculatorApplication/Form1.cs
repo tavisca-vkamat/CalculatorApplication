@@ -17,12 +17,21 @@ namespace CalculatorApplication
             InitializeComponent();
         }
 
-         public double div(int a,int b)
+         public string div(int a,int b)
     {
+        string s = "";
         double c = 0;
         c = a / b;
-        
-        return c;
+        if (b == 0)
+        {
+            s = "Invalid";
+
+
+            return s;
+        }
+        else
+            s = c.ToString();
+        return s;
 
     }
 
