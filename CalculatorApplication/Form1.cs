@@ -16,6 +16,11 @@ namespace CalculatorApplication
         {
             InitializeComponent();
         }
+        public string mul(int a, int b)
+        {
+            return (a * b) + "";
+        }
+
 
          public string div(int a,int b)
     {
