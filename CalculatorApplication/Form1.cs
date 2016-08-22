@@ -16,6 +16,11 @@ namespace CalculatorApplication
         {
             InitializeComponent();
         }
+        public string mul(int a, int b)
+        {
+            return (a * b) + "";
+        }
+
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
@@ -122,6 +127,7 @@ namespace CalculatorApplication
         private void button14_Click(object sender, EventArgs e)
         {
             textBox1.Text += "/";
+
         }
     }
 }
