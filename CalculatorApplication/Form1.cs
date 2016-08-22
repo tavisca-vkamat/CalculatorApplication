@@ -100,10 +100,9 @@ namespace CalculatorApplication
             textBox1.Text += "3";
         }
 
-        private void button4_Click(object sender, EventArgs e)
-        {
-            textBox1.Text += "4";
-        }
+        private void button4_Click(object sender, EventArgs e)      {
+          textBox1.Text += "4";
+     }
 
         private void button5_Click(object sender, EventArgs e)
         {

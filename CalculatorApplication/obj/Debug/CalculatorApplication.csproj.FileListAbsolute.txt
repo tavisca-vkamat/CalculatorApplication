@@ -1,5 +1,4 @@
 c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
-
 C:\Users\nmandge\mandge\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
 C:\Users\nmandge\mandge\CalculatorApplication\obj\Debug\CalculatorApplication.csprojResolveAssemblyReference.cache
 C:\Users\nmandge\mandge\CalculatorApplication\obj\Debug\CalculatorApplication.Form1.resources
@@ -11,7 +10,7 @@ C:\Users\nmandge\mandge\CalculatorApplication\obj\Debug\CalculatorApplication.ex
 C:\Users\nmandge\mandge\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
 =======
 D:\smurkar\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
-
+D:\MayurCalcGUI\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
 c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe
 c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
 c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csprojResolveAssemblyReference.cache
@@ -21,5 +20,13 @@ c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorApplication\Calc
 c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.exe
 c:\users\vkamat\documents\visual studio 2015\Projects\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
 
+D:\MayurCalcGUI\CalculatorApplication\bin\Debug\CalculatorApplication.exe
+D:\MayurCalcGUI\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
+D:\MayurCalcGUI\CalculatorApplication\obj\Debug\CalculatorApplication.csprojResolveAssemblyReference.cache
+D:\MayurCalcGUI\CalculatorApplication\obj\Debug\CalculatorApplication.Form1.resources
+D:\MayurCalcGUI\CalculatorApplication\obj\Debug\CalculatorApplication.Properties.Resources.resources
+D:\MayurCalcGUI\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.GenerateResource.Cache
+D:\MayurCalcGUI\CalculatorApplication\obj\Debug\CalculatorApplication.exe
+D:\MayurCalcGUI\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
 D:\smurkar\CalculatorApplication\obj\Debug\CalculatorApplication.exe
 D:\smurkar\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
