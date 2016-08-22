@@ -16,17 +16,29 @@ namespace CalculatorApplication
         {
             InitializeComponent();
         }
-
-        public string add(int a, int b)
-        {
-
-            return (a + b) + "";
-        }
         public string mul(int a, int b)
         {
             return (a * b) + "";
-
         }
+
+
+         public string div(int a,int b)
+    {
+        string s = "";
+        double c = 0;
+        c = a / b;
+        if (b == 0)
+        {
+            s = "Invalid";
+
+
+            return s;
+        }
+        else
+            s = c.ToString();
+        return s;
+
+    }
 
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -36,9 +48,9 @@ namespace CalculatorApplication
 
         private void button15_Click(object sender, EventArgs e)
         {
-            /* get user input and parse it to integer*/
+           /* get user input and parse it to integer*/
             String textOfInput = textBox1.Text;
-            String[] numArray = null;
+            String[] numArray= null;
             if (textOfInput.Contains("+"))
             {
                 numArray = textOfInput.Split('+');
@@ -82,19 +94,15 @@ namespace CalculatorApplication
         }
 
 
-         
-
-
-
+        
         private void button3_Click(object sender, EventArgs e)
         {
             textBox1.Text += "3";
         }
 
-        private void button4_Click(object sender, EventArgs e)
-        {
-            textBox1.Text += "4";
-        }
+        private void button4_Click(object sender, EventArgs e)      {
+          textBox1.Text += "4";
+     }
 
         private void button5_Click(object sender, EventArgs e)
         {
@@ -110,7 +118,8 @@ namespace CalculatorApplication
         {
             textBox1.Text += "7";
         }
-                private void button8_Click(object sender, EventArgs e)
+
+        private void button8_Click(object sender, EventArgs e)
         {
             textBox1.Text += "8";
         }
